@@ -1,0 +1,27 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="~/css/StyleSheet.css" />
+</head>
+<body>
+    <header>
+        <h1 class="h1" align="center">Настройки</h1>
+    </header>
+    <main>
+        <form method="get" action="/Home/Options">
+
+            <div align="center">
+                <p class="quest"><input type="radio" name="take" value="15" checked="checked" />15 вопросов в игре</p>
+                <p class="quest"><input type="radio" name="take" value="10" />10 вопросов в игре</p>
+                <p class="quest"><input type="radio" name="take" value="5" />5 вопросов в игре</p>
+            </div>
+            <div align="center">
+                <input class="button" type="submit" name="BackToStart" value="Назад" />
+            </div>
+        </form>
+
+
+    </main>
+</body>
+</html>

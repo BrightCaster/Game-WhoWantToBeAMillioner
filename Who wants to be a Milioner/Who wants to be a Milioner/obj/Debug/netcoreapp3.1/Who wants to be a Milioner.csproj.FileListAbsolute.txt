@@ -1,0 +1,75 @@
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Who wants to be a Milioner.exe
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Who wants to be a Milioner.deps.json
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Who wants to be a Milioner.runtimeconfig.json
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Who wants to be a Milioner.runtimeconfig.dev.json
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Who wants to be a Milioner.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Who wants to be a Milioner.pdb
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Who wants to be a Milioner.Views.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Who wants to be a Milioner.Views.pdb
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.AssemblyInfoInputs.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.AssemblyInfo.cs
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.csproj.CoreCompileInputs.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.RazorAssemblyInfo.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.RazorAssemblyInfo.cs
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\staticwebassets\Who wants to be a Milioner.StaticWebAssets.Manifest.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\staticwebassets\Who wants to be a Milioner.StaticWebAssets.xml
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\scopedcss\bundle\Who wants to be a Milioner.styles.css
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.TagHelpers.input.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.TagHelpers.output.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.RazorCoreGenerate.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.RazorTargetAssemblyInfo.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.RazorTargetAssemblyInfo.cs
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.Views.pdb
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.pdb
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.genruntimeconfig.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.csproj.CopyComplete
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Who wants to be a Milioner.csproj.AssemblyReference.cache
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Razor\Views\Home\Options.cshtml.g.cs
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\obj\Debug\netcoreapp3.1\Razor\Views\Home\Start.cshtml.g.cs
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mishka\source\repos\Who wants to be a Milioner\Who wants to be a Milioner\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

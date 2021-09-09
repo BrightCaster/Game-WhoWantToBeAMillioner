@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="~/css/StyleSheet.css" />
+</head>
+<body>
+    <header>
+        <h1 class="introd">Кто хочет стать миллионером</h1>
+    </header>
+    <main>
+        <form method="get" action="/Home/Index">
+            <div align="center">
+                <input class="button" type="submit" name="started" value="Начать игру" />
+            </div>
+            <div align="center">
+                <input class="button" type="submit" name="options" value="Настройки" />
+            </div>
+        </form>
+        <div align="center">
+            <p class="quest">Количество вопросов : @ViewData["AmountQuest"]</p>
+        </div>
+        
+    </main>
+</body>
+</html>
+
