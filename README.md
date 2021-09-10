@@ -1,5 +1,5 @@
 # Game-WhoWantToBeAMillioner
- This game is smallest international game using ASP .NET Core MVC technologies.
+ _This game is smallest international game using ASP .NET Core MVC technologies._
  
  This game is similar to the TV game " Who wants to become a millionaire?" To pass this game, you need to correctly answer all the questions and pick up your million. 
  The questions change every time and are asked in a different order.
