@@ -50,26 +50,37 @@ namespace Who_wants_to_be_a_Milioner.Controllers
         [HttpGet]
         public IActionResult Start(string BackToStart, string thisAnswer, string fifty)
         {
+            
             if (BackToStart == "Назад")
             {
                 Quest.Fifty = false;
-                Quest.Step = 1;
+                Quest.stepbystep = 0;
                 Quest.cont = 0;
+                Quest.randoms = false;
                 return Redirect("/Home/Index");
             }
             else
             {
+                if (Quest.randoms == false)
+                {
+                    Quest.Step = Service.Random(Quest.Step);
+                    Quest.randoms = true;
+                }
+                    
                 if (fifty == "50/50" && Quest.Fifty==false)
                 {
-                    Quest.Step -= 1;
+                    Quest.stepbystep -= 1;
                     Quest.Fifty = true;
                 }
-                if (Quest.Step != 0 && Quest.Step!= Convert.ToInt32(Quest.QuestionString))
+                if (Quest.stepbystep < Convert.ToInt32(Quest.QuestionString))
                 {
-                    ViewBag.Score = Quest.Score[Quest.Step - 1];
+
+                    ViewBag.Score = Quest.Score[Quest.stepbystep];
                     if (!Service.Getbool(thisAnswer, Quest.answers, Quest.boolAnswers))
                     {
                         ViewBag.Question1 = "Вы проиграли";
+                        ViewBag.Score = Quest.Score[Quest.stepbystep-1];
+                        Quest.stepbystep = 0;
                         return View();
                     }
                     else
@@ -112,13 +123,13 @@ namespace Who_wants_to_be_a_Milioner.Controllers
                                     break;
                             }
                             Quest.cont = 1;
-                            Quest.Step++;
+                            Quest.stepbystep++;
                             return View();
                         }
                         else
                         {
-                            Quest.question = Service.GetQuestion(Quest.Step.ToString()).Question;
-                            Service.GetAnswersList(Quest.Step.ToString(), out Quest.answers, out Quest.boolAnswers);
+                            Quest.question = Service.GetQuestion(Quest.Step[Quest.stepbystep].ToString()).Question;
+                            Service.GetAnswersList(Quest.Step[Quest.stepbystep].ToString(), out Quest.answers, out Quest.boolAnswers);
                             Service.Randoms(Quest.answers, Quest.boolAnswers, out Quest.answers, out Quest.boolAnswers);
                         }
                         ViewBag.Question1 = Quest.question;
@@ -126,13 +137,13 @@ namespace Who_wants_to_be_a_Milioner.Controllers
                         ViewBag.Answer2 = Quest.answers[1];
                         ViewBag.Answer3 = Quest.answers[2];
                         ViewBag.Answer4 = Quest.answers[3];
-                        Quest.Step++;
+                        Quest.stepbystep++; ;
                     }
                 }
                 else
                 {
-                    ViewBag.Score = Quest.Score[Quest.Step - 1];
-                    Quest.Step = 1;
+                    ViewBag.Score = Quest.Score[Quest.stepbystep];
+                    Quest.stepbystep = 0;
                     ViewBag.Question1 = "Вы выйграли";
                 }
             }

@@ -9,9 +9,9 @@ namespace Who_wants_to_be_a_Milioner.Service
 {
     public class Service
     {
-        public List<int> Score5 = new List<int>() {62500,125000,250000,500000,1000000 };
-        public List<int> Score10 = new List<int>() {10000,30000,50000,75000,100000,1250000,300000,550000,800000,1000000 };
-        public List<int> Score15 = new List<int>() {100,200,300,500,1000,2000,4000,8000,16000,32000,64000,128000,250000,500000,1000000 };
+        public List<int> Score5 = new List<int>() {0,62500,125000,250000,500000,1000000 };
+        public List<int> Score10 = new List<int>() {0,10000,30000,50000,75000,100000,1250000,300000,550000,800000,1000000 };
+        public List<int> Score15 = new List<int>() {0,100,200,300,500,1000,2000,4000,8000,16000,32000,64000,128000,250000,500000,1000000 };
 
         private AnswersRepository AnswersRepository;
         private QuestionRepository QuestionRepository;
@@ -78,6 +78,24 @@ namespace Who_wants_to_be_a_Milioner.Service
                 cont+=1;
             return cont;
         }
-        
+        public List<int> Random(List<int> list)
+        {
+            Random random = new Random();
+            int key;
+            int rnint;
+            int count = 0;
+            for (int i = 0; i < list.Count - 1; i++)
+            {
+                rnint = list[0];
+                key = random.Next(0, list[list.Count - 1]);
+                if (rnint == list[key])
+                    continue;
+                list.RemoveAt(0);
+                list.Insert(key, rnint);
+                count++;
+            }
+            return list;
+        }
+
     }
 }

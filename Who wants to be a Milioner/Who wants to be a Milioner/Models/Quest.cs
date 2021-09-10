@@ -24,14 +24,30 @@ namespace Who_wants_to_be_a_Milioner.Models
                 Question = value;
             }
         }
+        private static List<int> Add()
+        {
+            for (int i = 1; i < Convert.ToInt32(Question) + 1; i++)
+            {
+                step.Add(i);
+            }
+            return step;
+        }
         public static Service.Service service = new Service.Service();
         public static List<string> answers;
         public static List<string> boolAnswers;
         public static string question;
-        public static int Step = 1;
+        
+        public static int stepbystep = 0;
         public static List<int> Score;
         public static bool Fifty = false;
         public static int cont = 0;
+        private static List<int> step = new List<int>();
+        private static readonly List<int> s = Add();
+
+        public static List<int> Step = step;
+        public static bool randoms = false;
+        
+        
         
 
 
